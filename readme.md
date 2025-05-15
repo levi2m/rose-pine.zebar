@@ -18,7 +18,7 @@
 > around with it to make it work for you.
 
 Go to the directory for the window manager you are using (eg. GlazeWM or
-Komorebi), copy the config.yaml to your zebar cinfog directory.
+Komorebi), copy the config.yaml to your zebar config directory.
 
 In `config.yaml` replace the following section with your desired variables, eg.
 main, moon or dawn, defaults to main. Colors are also configurable.
